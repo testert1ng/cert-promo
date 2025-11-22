@@ -3,7 +3,7 @@
 ## All Entries
 
 | Vendor | Cert/Course | Price | Category | End Date |
-| ------ | ----------- | ----- | -------- | -------- | ---- |
+| ------ | ----------- | ----- | -------- | -------- |
 | [Astronomer](https://academy.astronomer.io/) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals) | $150 | 📊Data | ❓TBC |
 | [Astronomer](https://academy.astronomer.io/) | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://academy.astronomer.io/certification-exam-dag-authoring-airflow-3) | $150 | 📊Data | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | [020: Uncle Rat's XSS Guide](https://thexssrat.podia.com/ultimate-beginner-guide-xss) | €29.99 | ⚔️Cyber | ❓TBC |
