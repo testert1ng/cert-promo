@@ -31,8 +31,8 @@
 | [Oracle](https://mylearn.oracle.com/) | [Oracle Cloud Infrastructure 2025 Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | FREE | ☁️Cloud | ❓TBC |
 | [TCM Security](https://tcm-sec.com/) | [TCM Black Friday CTF](https://ctf.tcmsecurity.com/) | ❓TBC | ⚔️Cyber | ❓TBC |
 | [Oracle Netsuite](https://www.netsuite.com/) | [NetSuite Certification Program](https://www.netsuite.com/portal/services/training/suite-training/netsuite-certification/resource-center.shtml) | $125-245 | 💻IT | 31-Dec-2025 |
-| [The Secops Group](https://pentestingexams.com/) | [Community Exam CTF](https://www.linkedin.com/posts/secops-group_pentestingexams-cybersecuritycommunity-bugbounty-activity-7397587472731475969-vIIP) | £40 | ⚔️Cyber | END |
-
+| [The Secops Group](https://pentestingexams.com/) | [Community Exam CTF](https://www.linkedin.com/posts/secops-group_pentestingexams-cybersecuritycommunity-bugbounty-activity-7397587472731475969-vIIP) | £400 | ⚔️Cyber | END |
+| [Confluent](https://developer.confluent.io/) | [Confluent Data Streaming Engineer Certification](https://developer.confluent.io/certifications/data-streaming-engineer/) | FREE | 📊Data | ❓TBC |
 
 
 
